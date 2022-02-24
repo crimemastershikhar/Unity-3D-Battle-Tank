@@ -2,6 +2,11 @@
 
 An extensive 3D game called Battle Tank built using Unity. The main aim of this game is to defeat all the enemy tanks who are trying to shoot the player tank and win the game.
 
+## Instructions for the Game
+- This game can be played by keyboard as well as touch controls using virtual joystick in the game
+- Player tank can shoot bullets to desstroy enemy tanks
+
+
 ## Features of the Game
 
 - Used a popular design pattern MVC (Module View Controller)
